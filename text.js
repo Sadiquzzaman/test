@@ -8,4 +8,4 @@ if (!hiddenDiv) {
 }
 
 // Set the inner HTML of the hidden div
-hiddenDiv.innerHTML = '<p>This is vivasoft</p>';
+hiddenDiv.innerHTML = '<p>This is test running</p>';
