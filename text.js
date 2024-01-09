@@ -1,1 +1,1 @@
-document.body.style.backgroundColor = "red";
+alert('Hello! Welcome to our shop.');
