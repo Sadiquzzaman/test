@@ -1,2 +1,5 @@
-alert("Hello! Welcome to our shop.");
-console.log("This is script tag testing");
+// Wait for the DOM to be ready
+document.addEventListener('DOMContentLoaded', function () {
+    // Display an alert
+    alert('Hello! This is an alert from an external script.');
+});
